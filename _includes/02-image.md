@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Rob Prouse](https://2.gravatar.com/avatar/fb02c83f50f10641cace3708e5a2dfe6?s=400)
